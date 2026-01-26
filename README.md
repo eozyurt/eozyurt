@@ -1,7 +1,9 @@
 Hi, I’m Erdi 👋  
 Senior Data & BI Analyst | Analytics Systems for Financial & Operations
 
-I build end-to-end analytics systems across Pharmaceutical, FMCG, and Hospitality sectors, focusing on automated financial and operational reporting, ETL pipelines, and enterprise data solutions, bridging business analytics with technical execution.On weekends, I take on freelance projects via Fiverr, designing and supporting Excel and Power BI reporting and basic automation setups
+---
+I build end-to-end analytics systems across Pharmaceutical, FMCG, and Hospitality sectors, focusing on automated financial and operational reporting, ETL pipelines, and enterprise data solutions, bridging business analytics with technical execution.
+
 ---
 
 Core Analytics Stack  
@@ -21,12 +23,13 @@ What I work on
 - Data modeling & ETL pipelines using Python, SQL, and SAP sources  
 - Semantic models in Power BI with advanced DAX and M logic  
 - Containerized data pipelines using Docker, orchestrated with Prefect  
-- Forecasting and decision-support tools for financial and operational planning  
+- Forecasting and decision-support tools for financial and operational planning
+- On weekends,I take on freelance projects via Fiver ,designing and supporting Excel or Power BI reporting and basic reporting automation setups.  
 
 ---
 
 Featured Projects  
-(Selected projects will be added shortly...)
+(TBC 2026)
 
 ---
 
@@ -44,4 +47,3 @@ Certifications
 Connect with me  
 LinkedIn: https://linkedin.com/in/erdi-ozyurt  
 Email: erdi.ozyurt@outlook.com
-

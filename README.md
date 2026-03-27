@@ -29,7 +29,10 @@ What I work on
 ---
 
 Featured Projects  
-Latest project & Video: 
+
+
+- March 2026: Clustering Spotify Songs Using Audio Features (KMeans Approach)
+Video Link:
 https://www.linkedin.com/posts/erdi-ozyurt_spotify-kmeans-activity-7443033893605117953-wR11
 
 ---
